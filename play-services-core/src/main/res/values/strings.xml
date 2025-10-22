@@ -456,9 +456,9 @@ Please set up a password, PIN, or pattern lock screen."</string>
     <!-- WearOS Terms of Service -->
     <string name="wearos_tos_title">WearOS Terms of Service</string>
     <string name="wearos_tos_content">To use WearOS features, you must agree to the Google Terms of Service and Privacy Policy. This allows your wearable device to sync with your phone for notifications, health data, and app functionality.</string>
-    <string name="wearos_accept_terms">I agree to the Google Terms of Service</string>
-    <string name="wearos_accept_privacy">I agree to the Google Privacy Policy</string>
-    <string name="wearos_view_terms">View Terms</string>
+    <string name="wearos_agree_tos">I agree to the Google Terms of Service</string>
+    <string name="wearos_agree_privacy">I agree to the Google Privacy Policy</string>
+    <string name="wearos_view_tos">View Terms</string>
     <string name="wearos_view_privacy">View Privacy Policy</string>
     <string name="wearos_accept">Accept</string>
     <string name="wearos_decline">Decline</string>
